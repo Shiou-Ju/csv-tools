@@ -1,0 +1,17 @@
+{
+  "name": "csv-util",
+  "version": "1.0.0",
+  "description": "Count questionaire etc.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shiou-Ju/csv-util.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Shiou-Ju/csv-util/issues"
+  },
+  "homepage": "https://github.com/Shiou-Ju/csv-util#readme"
+}
