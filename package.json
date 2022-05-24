@@ -15,6 +15,7 @@
   },
   "homepage": "https://github.com/Shiou-Ju/csv-util#readme",
   "dependencies": {
-    "fast-csv": "^4.3.6"
+    "fast-csv": "^4.3.6",
+    "lodash": "^4.17.21"
   }
 }
